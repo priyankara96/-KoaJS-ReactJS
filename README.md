@@ -1,6 +1,6 @@
 # KoaJS & ReactJS Project
 
-## Used Packages :
+## Used Packages & Steps :
 
   <h3>Backend :</h3>
   
