@@ -1,6 +1,6 @@
 # KoaJS & ReactJS Project
 
-# Used Packages :
+## Used Packages :
 
   <h3>Backend :</h3>
   
@@ -18,6 +18,3 @@
   - yarn add parcel@next --dev
   - yarn add axios
 
-# a
-## b
-## c
